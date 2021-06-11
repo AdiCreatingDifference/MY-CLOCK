@@ -25,6 +25,11 @@ function draw(){
     noStroke();
     fill(255,0,0);
     text("RED stands for SECONDS HAND", 600,370);
+    
+    textSize(25);
+    noStroke();
+    rgb(255, 99, 135);
+    text("By : Aditya Bose", 300,330);
 
     textSize(25);
     noStroke();
