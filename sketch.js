@@ -28,8 +28,8 @@ function draw(){
     
     textSize(25);
     noStroke();
-    rgb(255, 99, 135);
-    text("By : Aditya Bose", 600,330);
+    rgb(255, 199, 235);
+    text("By : Aditya Bose", 600,430);
 
     textSize(25);
     noStroke();
